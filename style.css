@@ -1,4 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 96vh;
+    background-color: black;
+}
+
 h1 {
-    color: aquamarine;
+    padding: 1rem;
+    border-radius: 10px;
     background-color: red;
+}
+
+img {
+    width: 50px;
 }
